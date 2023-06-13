@@ -1,6 +1,5 @@
-h1{border: 2.5cm unset;}
-em{color: antiquewhite; background-color: black;}
-h2{font-size: smaller;font-family: Arial, Helvetica, sans-serif;background-color: aqua; border: 0.6cm solid ;}
-pre{background-color: blueviolet;}
-p{color: aquamarine; background-color: red;}
-h3{font-size: x-large; background-color: blanchedalmond;color: brown;} 
+h1{color: blue;background-color: brown;border: 2px solid green;}
+.farhan{color: brown;background-color: blueviolet; background-color: aquamarine;border: 2.5px solid greenyellow;}
+pre{font-size: large;font-family: Verdana, Geneva, Tahoma, sans-serif;color: brown;}
+hr{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size: larger;}
+.ali{background-color: aqua;}
