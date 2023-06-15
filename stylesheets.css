@@ -1,10 +1,11 @@
-h1{background-color;font-size: large;color: beige;text-align: center;}
-.farhan{background-color: white;text-align: center;color: black;}
-.ali:hover{ color: green; background-color: aqua;}
-.aree:hover{background-color: gray;color: green;}
-.misba:hover{color: green; background-color: purple;text-align: center;}
-.faree:hover{font-family: 'Times New Roman', Times, serif;background-color: yellowgreen;color: goldenrod;}
-.farn:hover{background-color: papayawhip;background-color: gray;}
-.fff:hover{background-color: salmon;color: green;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-font-size: 20px;}
-em{text-align: center; background-color: green; color: plum;  padding: 5px 5px;font-size: 80px;}
+pre{text-align: center;font-size: 22px;}
+body{background-color: silver;}
+h1{text-align: center; background-color: brown;font-size: 22px; color: aqua;}
+h4{font-size: 25px; text-align: center;border: 3px green;
+border: dashed palegoldenrod;
+background-color: salmon;}
+h5{font-size: 25px;
+text-align: center;
+border: 3px solid gray;
+background-color: green;}
+.faree:hover{color: seagreen; background-color: red;}
